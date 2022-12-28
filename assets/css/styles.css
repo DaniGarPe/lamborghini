@@ -218,7 +218,7 @@ p {
   height: 50vh;
   justify-content: center;
   padding-bottom: 2rem; 
-  background-image: url("/assets/img/tres-3.jpg");
+  background-image: url("../img/tres-3.jpg");
   background-color: var(--bg-color);
   background-position: center;
   background-repeat: no-repeat;
